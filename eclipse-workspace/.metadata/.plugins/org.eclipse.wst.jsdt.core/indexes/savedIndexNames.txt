@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/alison/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3510205789.index
+158192254.index
+4206301744.index
+1272286171.index
+1185873078.index
